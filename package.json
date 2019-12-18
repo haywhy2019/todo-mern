@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "node": "12.12.0"
+    "node": "12.12.0",
+    "npm": "6.13.0"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
